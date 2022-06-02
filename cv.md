@@ -1,7 +1,7 @@
 # SOKHIBOV FARKHOD
 ##### **FULLSTACK WEB DEVELOPER**
 
-![My picture](/rsschool-cv/photo_2021-10-20_15-00-27.jpg)
+![My picture](https://github.com/sFarkhod/rsschool-cv/blob/gh-pages/photo_2021-10-20_15-00-27.jpg?raw=true)
 
 *********
 
