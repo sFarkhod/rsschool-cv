@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sfarkhod.github.io/rsschool-cv/
