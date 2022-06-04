@@ -1,1 +1,1 @@
-https://sFarkhod.github.io/rsschool-cv/
+https://sfarkhod.github.io/rsschool-cv/
