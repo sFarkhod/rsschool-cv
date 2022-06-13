@@ -237,3 +237,36 @@ a {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
+.course_img {
+    width: 50%;
+    height: 50%;
+    margin-top: 40px;
+}
+
+.img_course {
+  width: 20%;
+  height: 20%;
+  margin-top: 15px;
+  margin-left: 100px;
+}
+
+.course_h2 {
+  color: black;
+  margin-left: 300px;
+  margin-bottom: 200px;
+}
+
+.left {
+  position: absolute;
+  margin-left:10px;
+}
+
+.right {
+  position: absolute;
+  margin-left:330px;
+}
+
+.right:hover {
+  color: #0bb5f4;
+}
