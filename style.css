@@ -256,3 +256,17 @@ a {
   margin-left: 300px;
   margin-bottom: 200px;
 }
+
+.left {
+  position: absolute;
+  margin-left:10px;
+}
+
+.right {
+  position: absolute;
+  margin-left:330px;
+}
+
+.right:hover {
+  color: #0bb5f4;
+}
