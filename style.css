@@ -542,3 +542,16 @@ a {
   /* piece of shittiest code */
 
 }
+
+
+.skill_progress:nth-child(1) span {
+  width: 80%;
+}
+
+.skill_progress:nth-child(2) span {
+  width: 80%;
+}
+
+.skill_progress:nth-child(3) span {
+  width: 70%;
+}
